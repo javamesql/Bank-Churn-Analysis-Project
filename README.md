@@ -12,7 +12,7 @@ Customer churn, also known as customer turnover, refers to the percentage of los
 
 ![BankChurn1](https://github.com/javamesql/Bank-Churn-Analysis-Project/assets/141413672/72d19835-3b83-4603-b759-1aee8d2e4832)
 
-In this chart comparing customer age, number of customers, and churn rate, customers between 45 and 60 tend to leave the bank at much higher rates than other age groups. This may be due to the bank catering to relatively younger customers resulting in older customers being disatisfied. Or, it could be related to life changes like retirement. Some actionable steps might be creating retirement-focused financial plans or the offering of specific incentives catering to older customers.
+In this chart comparing customer age, number of customers, and churn rate, customers between 45 and 60 tend to leave the bank at much higher rates than other age groups. This may be due to the bank catering to relatively younger customers resulting in older customers being dissatisfied. Or, it could be related to life changes like retirement. Some actionable steps might be creating retirement-focused financial plans or the offering of specific incentives catering to older customers.
 
 ![BankChurn2](https://github.com/javamesql/Bank-Churn-Analysis-Project/assets/141413672/1fd6bcaa-ae99-4141-a170-bf1270761c75)
 
@@ -24,7 +24,7 @@ This chart shows the relationship between the number of customers, their points 
 
 ![BankChurn4](https://github.com/javamesql/Bank-Churn-Analysis-Project/assets/141413672/e80329fe-2a8a-4776-9e80-41e1e3c072d9)
 
-An interesting trend emerges when comparing the number of customers, number of products, and churn rate between them. Customers with 3 or 4 products left more often. There's also a large disparity between the amount of customers with 1 or 2 products and customers with 3 or 4 products. It seems like customers either didn't like the fact that they were sold many products or that managing multiple products were too complex or that additional services weren't adding value. I'd recommend reevaluating the value of addition products or providing more incentives for customers to have more products.
+An interesting trend emerges when comparing the number of customers, number of products, and churn rate between them. Customers with 3 or 4 products left more often. There's also a large disparity between the amount of customers with 1 or 2 products and customers with 3 or 4 products. It seems like customers either didn't like the fact that they were sold many products or that managing multiple products were too complex or that additional services weren't adding value. I'd recommend reevaluating the value of additional products or providing more incentives for customers to have more products.
 
 ![BankChurn5](https://github.com/javamesql/Bank-Churn-Analysis-Project/assets/141413672/2160598d-e5dc-48eb-9945-2bb7f81366a4)
 
@@ -32,11 +32,11 @@ This chart compares the amount of customers exited, tenure, and points earned. T
 
 ![BankChurn6](https://github.com/javamesql/Bank-Churn-Analysis-Project/assets/141413672/2b86b43d-3a22-44d6-b123-a31d8d6e54ab)
 
-According to the cross-tabulation, active customers who have not complained at all have not left the bank, whereas inactive customers who have complained pretty much have all left the bank. While a measly .11% of customers who aren't active anymore didn't complain. My recommendation is to improve the process of customer complaint resolution and customer support.
+According to the cross-tabulation, active customers who have not complained at all have not left the bank, whereas inactive customers who have complained pretty much have all left the bank. While only .11% of customers who aren't active anymore didn't complain. My recommendation is to improve the process of customer complaint resolution and customer support.
 
 ![BankChurn7](https://github.com/javamesql/Bank-Churn-Analysis-Project/assets/141413672/30de7f4d-f63b-4775-bc80-5461c5b029e2)
 
-Surprisingly, the churn rates across satisfaction scores were relatively stable, along with the relatively even amount of customers among the different satisfaction scores. I would have thought that lower satisfaction scores would lead to higher churn rates. This metric needs deeper analysis on. There might be factors outside of this dataset that influences this occurance.
+Surprisingly, the churn rates across satisfaction scores were relatively stable, along with the relatively even amount of customers among the different satisfaction scores. I would have thought that lower satisfaction scores would lead to higher churn rates. This metric needs deeper analysis on. There might be factors outside of this dataset that influences this occurence.
 
 ![BankChurn8](https://github.com/javamesql/Bank-Churn-Analysis-Project/assets/141413672/399a3049-5703-4418-adc0-682113265aab)
 
